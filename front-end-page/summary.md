@@ -31,6 +31,7 @@ flask,轻量级web
 
 > pip install flask
 
+
 flask_cors
 
 > pip install flask_cors
@@ -42,9 +43,7 @@ flask_cors
 >  * Restarting with stat
      D:\python\python.exe: can't open file 'D:\\python\\PyCharm': [Errno 2] No such file or directory
 
-导致前端发送不了请求，
-
-解决办法是在安装文件夹的界面上方地址栏输入cmd，进入终端输入
+导致前端发送不了请求，解决办法是在安装文件夹的界面上方地址栏输入cmd，进入终端输入
 
 > python app.py
 
